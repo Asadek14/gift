@@ -1,0 +1,40 @@
+#boy{
+
+    width: 150px;
+    height: 162px;
+
+}
+
+#personB{
+
+    position: absolute;
+    top: 94px;
+    right: 0px;
+}
+
+#personG{
+
+    position: absolute;
+    top: 100px;
+    right: 230px;
+}
+
+#girl{
+
+    width: 130px;
+    height: 160px;
+
+}
+
+#heart{
+    display: none;
+    position: absolute;
+    top: 181px;
+    left: 123px;
+
+}
+
+#heartDrawing{
+    width: 100px;
+    height: 70px;
+}
