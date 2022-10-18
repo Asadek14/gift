@@ -15,5 +15,5 @@ const moveThem = () => {
 
 setTimeout(moveThem, 40)
 
-setTimeout(() => {heart.style.display = "block"}, 150 * 40)
+setTimeout(() => {heart.style.display = "block"}, 148 * 40)
 
